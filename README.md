@@ -1,2 +1,2 @@
-# react-reducer-counter
+# react-redux-counter
 Created with CodeSandbox
